@@ -1,0 +1,14 @@
+{
+    "saltires": [
+      { "id": 1, "title": "saltire 1" },
+      { "id": 2, "title": "saltire 2" },
+      { "id": 3, "title": "saltire 3" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "saltireId": 1 },
+      { "id": 2, "body": "some comment", "saltireId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
